@@ -4,7 +4,7 @@ from client_modules import udp
 from threading import Thread
 import os,sys,socket
 
-IP = '127.0.0.1'
+IP = '35.188.71.11'
 PORT = 4444
 BUFFER_SIZE = 1024
 
